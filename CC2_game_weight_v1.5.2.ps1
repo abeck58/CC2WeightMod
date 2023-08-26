@@ -22,7 +22,7 @@ write-host 'Debug (Show Hex)',$weightHex
 write-host 'Debug (Show Array)',$bytesarray
 
 $bytes = [System.IO.File]::ReadAllBytes($file)
-$weightOffset = 2823820
+$weightOffset = 2823564
 
 
 $bytes[$weightOffset] = $bytesarray[0]
