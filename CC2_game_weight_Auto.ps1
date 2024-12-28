@@ -3,10 +3,6 @@ $ErrorActionPreference = 'Stop'
 
 $file = "carrier_command.exe"
 
-write-host "Hash check bypassed."
-
-write-host Hash check passed for v1.5.2
-
 # Set the Carrier Weight Limit to 2,000,000
 $weight = 2000000
 $weightHex = '{0:X}' -f ([uint32]$weight)
