@@ -5,4 +5,4 @@ Lets players alter the capacity weight of the carrier in the game Carrier Comman
 Instructions
 1) Drop the powershell script in to your carrier command 2 folder.
 2) Run the script and enter the offset
-3) I am sure if you are tryig this you know where to go from hear.
+3) I am sure if you are trying this you know where to go from hear.
